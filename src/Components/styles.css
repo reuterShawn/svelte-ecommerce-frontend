@@ -1,0 +1,9 @@
+:root {
+
+    --pink: var(#cea4cc);
+    --orange: var(#ee5a36);
+    --green: var(#1a9461);
+    
+    --backOne: var();
+    --backTwo: var(#a0c4e8);
+}
